@@ -89,3 +89,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d636c90785013be49b07bd8c4f8ada39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  value: 1
+  index: {fileID: 0}
+  pos: {x: 0, y: 0}
+  flipped: {fileID: 0}
+  rect: {fileID: 0}
